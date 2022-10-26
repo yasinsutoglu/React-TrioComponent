@@ -14,7 +14,7 @@
 
 <hr>
 
-[📍click here to see page](https://yasinsutoglu.github.io/React-TrioComponent/)
+[📍Please Clone the Project and Try it from local due to easy usage of the source data](https://github.com/yasinsutoglu/React-TrioComponent)
 
 <!-- ------------------------------------------------------ -->
 ````
