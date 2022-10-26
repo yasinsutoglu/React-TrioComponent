@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-TrioComponent/static/css/main.b8f72afd.css",
+    "main.js": "/React-TrioComponent/static/js/main.d5a93909.js",
+    "index.html": "/React-TrioComponent/index.html",
+    "main.b8f72afd.css.map": "/React-TrioComponent/static/css/main.b8f72afd.css.map",
+    "main.d5a93909.js.map": "/React-TrioComponent/static/js/main.d5a93909.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8f72afd.css",
+    "static/js/main.d5a93909.js"
+  ]
+}

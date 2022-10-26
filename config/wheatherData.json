@@ -1,0 +1,50 @@
+[
+    {
+        "tempeture": "24°C",
+        "type": "sunny",
+        "img" : "http://openweathermap.org/img/wn/01d@2x.png",
+        "date": "2022-10-17 07:45:06.06303+02"
+    },
+    {
+        "tempeture": "20°C",
+        "type": "cloudy",
+        "img": "http://openweathermap.org/img/wn/02d@2x.png",
+        "date": "2022-10-18 07:45:06.06303+02"
+    },
+    {
+      "tempeture": "25°C",
+      "type": "sunny",
+      "img": "http://openweathermap.org/img/wn/01d@2x.png",
+      "date": "2022-10-19 07:45:06.06303+02"
+    },
+    {
+      "tempeture": "21°C",
+      "type": "rainy",
+      "img": "http://openweathermap.org/img/wn/10d@2x.png",
+      "date": "2022-10-20 07:45:06.06303+02"
+    },
+    {
+      "tempeture": "22°C",
+      "type": "rainy",
+      "img": "http://openweathermap.org/img/wn/10d@2x.png",
+      "date": "2022-10-21 07:45:06.06303+02"
+    },
+    {
+      "tempeture": "12°C",
+      "type": "rainy",
+      "img": "http://openweathermap.org/img/wn/10d@2x.png",
+      "date": "2022-10-22 07:45:06.06303+02"
+    },
+    {
+      "tempeture": "0°C",
+      "type": "snowy",
+      "img": "http://openweathermap.org/img/wn/13d@2x.png",
+      "date": "2022-10-23 07:45:06.06303+02"
+    },
+    {
+      "tempeture": "-2°C",
+      "type": "snowy",
+      "img": "http://openweathermap.org/img/wn/13d@2x.png",
+      "date": "2022-10-24 07:45:06.06303+02"
+    }
+]
